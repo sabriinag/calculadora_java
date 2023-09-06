@@ -9,7 +9,11 @@ public class Operacoes{
         Scanner leitor = new Scanner(System.in);  
 
         //entrada
-        
+        System.out.println("Digite o primeiro número :");
+        num1 = leitor.nextDouble();
+
+        System.out.println("Digite o segundo número :");
+        num1 = leitor.nextDouble();
 
         //processamento
         
