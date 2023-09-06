@@ -21,7 +21,7 @@ public class Operacoes{
         
 
         //saida
-
+        System.out.println("Resultado :" + resultado);
 
     }
 }
