@@ -13,9 +13,11 @@ public class Operacoes{
         num1 = leitor.nextDouble();
 
         System.out.println("Digite o segundo número :");
-        num1 = leitor.nextDouble();
+        num2 = leitor.nextDouble();
 
         //processamento
+        resultado = num1 + num2;
+
         
 
         //saida
